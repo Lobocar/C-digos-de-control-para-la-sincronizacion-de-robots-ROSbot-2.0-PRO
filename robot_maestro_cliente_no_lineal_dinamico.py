@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 ###################################################################################
+# Programa realizado por Carlos Andrés Villalobos Aranda
+###################################################################################
 # Para iniciar correctamente el programa coloquelo dentro de la carpeta "scripts" #
 # que sen encuentra en la carpeta controlador en la siguiente direccion:          #
 # ~/husarion_ws/src/controlador/scripts                                           #
